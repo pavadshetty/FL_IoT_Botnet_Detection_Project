@@ -8,3 +8,12 @@
 - Code includes preprocessing, NN training, simple FL prototype (Flower), and attack simulations.
 
 ## Repository structure
+FL_IoT_Project/
+│── client.py
+│── server.py
+│── model.py
+│── dataset.py
+│── nn_2000.py
+│── test_dataset.py
+│── requirements.txt
+│── README.md
